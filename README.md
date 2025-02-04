@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am currently a student at GITAM UNIVERSITY BANGALORE. <br>I am studying Computer Science & Engineering, specialising in Data Science.<br>Passionate about Machine Learning , Deep Learning and Data Science.<br><br>  
+ A student at GITAM UNIVERSITY BANGALORE. <br>I am studying Computer Science & Engineering, specialising in Data Science.<br>Passionate about Machine Learning , Deep Learning and Data Science.<br><br>  
 
 
 # 💻 Tech Stack:
