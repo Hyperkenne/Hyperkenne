@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
- A student at GITAM UNIVERSITY BANGALORE. <br>I am studying Computer Science & Engineering, specialising in Data Science.<br>Passionate about Machine Learning , Deep Learning and Data Science.<br><br>  
+<br>Tech enthusiast and aspiring Data Scientist with a degree in Computer Science and Engineering specialized in (Data Science). Passionate about machine learning, deep learning, and building intelligent, data-driven solutions that solve real-world problems. Eager to contribute to cutting-edge projects in AI, autonomous systems, and scalable analytics.<br><br>  
 
 
 # 💻 Tech Stack:
